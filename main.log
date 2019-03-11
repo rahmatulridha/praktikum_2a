@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  11 MAR 2019 22:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.2.25)  11 MAR 2019 23:40
 entering extended mode
-**F:/xxx/main.tex
-(F:/xxx/main.tex
-LaTeX2e <2018-12-01>
-(F:/xxx\wileySix.cls
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(wileySix.cls
 
 
  Wiley Book Style, Design No.: SD 001C
@@ -16,121 +17,132 @@ LaTeX2e <2018-12-01>
 
 \phspace=\dimen102
 \SpaceAboveChapterNumber=\dimen103
-\savefootnotenumber=\count80
-\ftnum=\count81
-\saveftnum=\count82
-\c@chapapp=\count83
-\c@part=\count84
-\c@chapter=\count85
-\c@section=\count86
-\c@subsection=\count87
-\c@subsubsection=\count88
-\c@paragraph=\count89
-\c@subparagraph=\count90
-\c@figure=\count91
-\c@table=\count92
+\savefootnotenumber=\count79
+\ftnum=\count80
+\saveftnum=\count81
+\c@chapapp=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \partskip=\skip43
 \tabandfigskip=\skip44
-\footnum=\count93
-\savefootnum=\count94
+\footnum=\count92
+\savefootnum=\count93
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
 Writing index file main.idx
 \iletterskip=\skip45
-\timing=\count95
-\hourcount=\count96
-\oldtime=\count97
-\probcount=\count98
-\subprobcount=\count99
+\timing=\count94
+\hourcount=\count95
+\oldtime=\count96
+\probcount=\count97
+\subprobcount=\count98
+\c@subproblem=\count99
 \c@subproblem=\count100
-\c@subproblem=\count101
 \widthofcropmarks=\dimen104
 \raisetopcropmarks=\dimen105
 \raisebottomcropmarks=\dimen106
 \movecropmarksright=\dimen107
-\c@theorem=\count102
-\c@appfootnote=\count103
+\c@theorem=\count101
+\c@appfootnote=\count102
 \slugwidth=\dimen108
 \slugheight=\dimen109
 \slugdepth=\dimen110
-\c@exampnum=\count104
-\c@algo=\count105
-\c@algorithm=\count106
+\c@exampnum=\count103
+\c@algo=\count104
+\c@algorithm=\count105
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
-\lst@mode=\count107
-\lst@gtempboxa=\box27
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count106
+\lst@gtempboxa=\box26
 \lst@token=\toks15
-\lst@length=\count108
+\lst@length=\count107
 \lst@currlwidth=\dimen116
-\lst@column=\count109
-\lst@pos=\count110
+\lst@column=\count108
+\lst@pos=\count109
 \lst@lostspace=\dimen117
 \lst@width=\dimen118
-\lst@newlines=\count111
-\lst@lineno=\count112
+\lst@newlines=\count110
+\lst@lineno=\count111
 \lst@maxwidth=\dimen119
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count113
-\lst@skipnumbers=\count114
-\lst@framebox=\box28
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count112
+\lst@skipnumbers=\count113
+\lst@framebox=\box27
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2019/02/27 1.8b listings configuration
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count115
+\c@float@type=\count114
 \float@exts=\toks16
-\float@box=\box29
+\float@box=\box28
 \@float@everytoks=\toks17
-\@floatcapt=\box30
+\@floatcapt=\box29
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-)
-(F:/xxx\w-bookps.sty
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (w-bookps.sty
 
 
  Using PostScript Fonts
@@ -140,7 +152,7 @@ File: lstlang1.sty 2019/02/27 1.8b listings language file
 
  
 )
-\sectsavebox=\box31
+\sectsavebox=\box30
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -163,56 +175,74 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
+\scratchcounter=\count115
 \scratchdimen=\dimen120
-\scratchbox=\box32
-\nofMPsegments=\count117
-\nofMParguments=\count118
+\scratchbox=\box31
+\nofMPsegments=\count116
+\nofMParguments=\count117
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count119
+\MPscratchCnt=\count118
 \MPscratchDim=\dimen121
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
 \everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -226,10 +256,11 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count122
+\c@lstlisting=\count121
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
- [1{C:/Users/Knoy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+ [1{C:/Users/dezha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
 
@@ -242,7 +273,7 @@ File: kreatiflogo.png Graphic file (type png)
 <use kreatiflogo.png>
 Package pdftex.def Info: kreatiflogo.png  used on input line 150.
 (pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
-[3 <F:/xxx/kreatiflogo.png>] (F:/xxx\info/copyrightpage.tex)
+[3 <./kreatiflogo.png>] (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
@@ -267,7 +298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--155
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
- (F:/xxx\info/contributors.tex) [5] [6
+ (info/contributors.tex) [5] [6
 
 ]
 No file main.toc.
@@ -294,37 +325,35 @@ No file main.lot.
 
 [13] [14
 
-]
-No file main.lol.
+] (main.lol)
 \tf@lol=\write7
 \openout7 = `main.lol'.
 
-[15] [16
+ [15] [16
 
-] (F:/xxx\info/foreword.tex) [17] [18
+] (info/foreword.tex) [17] [18
 
-] (F:/xxx\info/preface.tex)
-[19] [20
+] (info/preface.tex) [19] [20
 
-] (F:/xxx\info/acknowledgments.tex [21]) [22
+] (info/acknowledgments.tex [21]) [22
 
-] (F:/xxx\info/acronyms.tex)
+] (info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
 
- ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
- [23] [24
+[23] [24
+
+] (info/glossary.tex) [25] [26
+
+] (info/symbols.tex) [27] [28
 
 ]
-(F:/xxx\info/glossary.tex) [25] [26
-
-] (F:/xxx\info/symbols.tex) [27] [28
-
-]
-(F:/xxx\info/introduction.tex
+(info/introduction.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 
@@ -346,17 +375,16 @@ Bab 2.
 
 ]
 Bab 3.
-(F:/xxx\chapters/3.tex
+(chapters/3.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
- (F:/xxx\src/1174027.py)
+ (src/1174027.py)
 Overfull \hbox (4.79688pt too wide) in paragraph at lines 11--12
 []\OT1/ptm/m/n/10 Fungsi da-pat mem-baca pa-ram-e-ter, pa-ram-e-ter adalah ni-l
 ai yang dise-di-akan kepada
  []
 
-(F:/xxx\src/1174027.py) [5] (F:/xxx\src/1174027.py) (F:/xxx\src/1174027.py)
-(F:/xxx\src/1174027.py)
+(src/1174027.py) [5] (src/1174027.py) (src/1174027.py) (src/1174027.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -364,8 +392,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[6] (F:/xxx\src/1174027.py) (F:/xxx\src/1174027.py) (F:/xxx\src/1174027.py)
-(F:/xxx\src/1174027.py
+[6] (src/1174027.py) (src/1174027.py) (src/1174027.py) (src/1174027.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [7])
@@ -379,23 +406,21 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[8] (F:/xxx\src/1174027.py
+[8] (src/1174027.py
 LaTeX Font Info:    Try loading font information for OML+ptm on input line 239.
 
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omlptm.fd"
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 239.
-)
-(F:/xxx\src/1174027.py) (F:/xxx\src/1174027.py
+) (src/1174027.py) (src/1174027.py
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 260.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 260.
-) (F:/xxx\src/1174027.py)
-(F:/xxx\src/1174027.py
+) (src/1174027.py) (src/1174027.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [9])
@@ -404,13 +429,11 @@ Overfull \hbox (4.53737pt too wide) in paragraph at lines 87--90
 elakukan melakukan
  []
 
-(F:/xxx\src/1174027.py) (F:/xxx\src/1174027.py) (F:/xxx\src/1174027.py)
-(F:/xxx\src/1174027.py
+(src/1174027.py) (src/1174027.py) (src/1174027.py) (src/1174027.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [10])
-(F:/xxx\src/main.py) (F:/xxx\src/main.py) (F:/xxx\src/1174027.py)
-(F:/xxx\src/1174051_praktek.py)
+(src/main.py) (src/main.py) (src/1174027.py) (src/1174051_praktek.py)
 Overfull \hbox (4.79688pt too wide) in paragraph at lines 130--131
 []\OT1/ptm/m/n/10 Fungsi da-pat mem-baca pa-ram-e-ter, pa-ram-e-ter adalah ni-l
 ai yang dise-di-akan kepada
@@ -424,8 +447,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[11] (F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py)
-(F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py)
+[11] (src/1174051_praktek.py) (src/1174051_praktek.py) (src/1174051_praktek.py)
+(src/1174051_praktek.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -433,8 +456,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[12] (F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py)
-(F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py
+[12] (src/1174051_praktek.py) (src/1174051_praktek.py) (src/1174051_praktek.py)
+(src/1174051_praktek.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [13]
@@ -444,8 +467,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [14])
-(F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py)
-(F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py)
+(src/1174051_praktek.py) (src/1174051_praktek.py) (src/1174051_praktek.py)
+(src/1174051_praktek.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -453,18 +476,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[15] (F:/xxx\src/1174051_praktek.py)
+[15] (src/1174051_praktek.py)
 Overfull \hbox (4.53737pt too wide) in paragraph at lines 206--209
 []\OT1/ptm/m/n/10 Buatlah fungsi den-gan in-putan vari-abel NPM, di-dalam-nya m
 elakukan melakukan
  []
 
-(F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py)
-(F:/xxx\src/1174051_praktek.py) (F:/xxx\src/1174051_praktek.py
+(src/1174051_praktek.py) (src/1174051_praktek.py) (src/1174051_praktek.py)
+(src/1174051_praktek.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [16])
-(F:/xxx\src/mainn.py) (F:/xxx\src/mainn.py) (F:/xxx\src/1174051_praktek.py)
+(src/mainn.py) (src/mainn.py) (src/1174051_praktek.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -472,57 +495,61 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[17] (F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
+[17] (src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py)
 Overfull \hbox (3.77686pt too wide) in paragraph at lines 278--281
 []\OT1/ptm/m/n/10 Kelas Ke-las adalah cetak biru atau pro-totipe dari ob-jek di
 -mana kita mendefin-
  []
 
-(F:/xxx\src/1174006/Chapter3/1174006.py
+(src/1174006/Chapter3/1174006.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [18])
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [19])
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [20]
-(F:/xxx\src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [21]
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [22])
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py)
-(F:/xxx\src/1174006/Chapter3/1174006.py
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py) (src/1174006/Chapter3/1174006.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [23])
-(F:/xxx\src/1174006/Chapter3/main.py) (F:/xxx\src/1174006/Chapter3/main.py
+(src/1174006/Chapter3/main.py) (src/1174006/Chapter3/main.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [24])
-(F:/xxx\src/1174006/Chapter3/1174006.py)
+(src/1174006/Chapter3/1174006.py)
+<figures/diva/Chapter3/1174006_1.png, id=193, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_1.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_1.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_1.png  used on input lin
+e 384.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/1174006_2.png, id=194, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_2.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_2.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_2.png  used on input lin
+e 388.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -530,29 +557,172 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[25] (F:/xxx\src/1174026.py)
-Overfull \hbox (4.79688pt too wide) in paragraph at lines 390--391
+[25]
+<figures/diva/Chapter3/1174006_3.png, id=198, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_3.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_3.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_3.png  used on input lin
+e 392.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/1174006_4.png, id=199, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_4.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_4.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_4.png  used on input lin
+e 396.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/1174006_5.png, id=200, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_5.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_5.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_5.png  used on input lin
+e 400.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26 <./figures/diva/Chapter3/1174006_1.png> <./figures/diva/Chapter3/1174006_2.
+png> <./figures/diva/Chapter3/1174006_3.png>]
+<figures/diva/Chapter3/1174006_6.png, id=207, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_6.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_6.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_6.png  used on input lin
+e 404.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/1174006_7.png, id=208, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/1174006_7.png Graphic file (type png)
+<use figures/diva/Chapter3/1174006_7.png>
+Package pdftex.def Info: figures/diva/Chapter3/1174006_7.png  used on input lin
+e 408.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27 <./figures/diva/Chapter3/1174006_4.png> <./figures/diva/Chapter3/1174006_5.
+png> <./figures/diva/Chapter3/1174006_6.png>]
+<figures/diva/Chapter3/3lib_1.png, id=215, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/3lib_1.png Graphic file (type png)
+<use figures/diva/Chapter3/3lib_1.png>
+Package pdftex.def Info: figures/diva/Chapter3/3lib_1.png  used on input line 4
+14.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/3lib_2.png, id=216, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/3lib_2.png Graphic file (type png)
+<use figures/diva/Chapter3/3lib_2.png>
+Package pdftex.def Info: figures/diva/Chapter3/3lib_2.png  used on input line 4
+18.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/3lib_3.png, id=217, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/3lib_3.png Graphic file (type png)
+<use figures/diva/Chapter3/3lib_3.png>
+Package pdftex.def Info: figures/diva/Chapter3/3lib_3.png  used on input line 4
+22.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/3lib_4.png, id=218, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/3lib_4.png Graphic file (type png)
+<use figures/diva/Chapter3/3lib_4.png>
+Package pdftex.def Info: figures/diva/Chapter3/3lib_4.png  used on input line 4
+26.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <./figures/diva/Chapter3/1174006_7.png> <./figures/diva/Chapter3/3lib_1.png
+> <./figures/diva/Chapter3/3lib_2.png>]
+<figures/diva/Chapter3/kelas3lib_1.png, id=225, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/kelas3lib_1.png Graphic file (type png)
+<use figures/diva/Chapter3/kelas3lib_1.png>
+Package pdftex.def Info: figures/diva/Chapter3/kelas3lib_1.png  used on input l
+ine 432.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/kelas3lib_2.png, id=226, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/kelas3lib_2.png Graphic file (type png)
+<use figures/diva/Chapter3/kelas3lib_2.png>
+Package pdftex.def Info: figures/diva/Chapter3/kelas3lib_2.png  used on input l
+ine 436.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/kelas3lib_3.png, id=227, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/kelas3lib_3.png Graphic file (type png)
+<use figures/diva/Chapter3/kelas3lib_3.png>
+Package pdftex.def Info: figures/diva/Chapter3/kelas3lib_3.png  used on input l
+ine 440.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29 <./figures/diva/Chapter3/3lib_3.png> <./figures/diva/Chapter3/3lib_4.png> <
+./figures/diva/Chapter3/kelas3lib_1.png>]
+<figures/diva/Chapter3/kelas3lib_4.png, id=234, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/kelas3lib_4.png Graphic file (type png)
+<use figures/diva/Chapter3/kelas3lib_4.png>
+Package pdftex.def Info: figures/diva/Chapter3/kelas3lib_4.png  used on input l
+ine 444.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/main_1.png, id=235, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/main_1.png Graphic file (type png)
+<use figures/diva/Chapter3/main_1.png>
+Package pdftex.def Info: figures/diva/Chapter3/main_1.png  used on input line 4
+50.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30 <./figures/diva/Chapter3/kelas3lib_2.png> <./figures/diva/Chapter3/kelas3li
+b_3.png> <./figures/diva/Chapter3/kelas3lib_4.png>]
+<figures/diva/Chapter3/main_2.png, id=243, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/main_2.png Graphic file (type png)
+<use figures/diva/Chapter3/main_2.png>
+Package pdftex.def Info: figures/diva/Chapter3/main_2.png  used on input line 4
+54.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+<figures/diva/Chapter3/plagiarisme.png, id=244, 1371.1225pt x 770.88pt>
+File: figures/diva/Chapter3/plagiarisme.png Graphic file (type png)
+<use figures/diva/Chapter3/plagiarisme.png>
+Package pdftex.def Info: figures/diva/Chapter3/plagiarisme.png  used on input l
+ine 460.
+(pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[31 <./figures/diva/Chapter3/main_1.png> <./figures/diva/Chapter3/main_2.png>]
+(src/1174026.py)
+Overfull \hbox (4.79688pt too wide) in paragraph at lines 474--475
 []\OT1/ptm/m/n/10 Fungsi da-pat mem-baca pa-ram-e-ter, pa-ram-e-ter adalah ni-l
 ai yang dise-di-akan kepada
  []
 
-(F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py)
-(F:/xxx\src/1174026.py
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
- [26])
-(F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py)
-(F:/xxx\src/1174026.py
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
- [28])
-(F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py)
+(src/1174026.py) (src/1174026.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -560,13 +730,30 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[29] (F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py)
-Overfull \hbox (4.53737pt too wide) in paragraph at lines 466--469
+[32 <./figures/diva/Chapter3/plagiarisme.png>] (src/1174026.py) (src/1174026.py
+) (src/1174026.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[33] (src/1174026.py) (src/1174026.py) (src/1174026.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [34])
+(src/1174026.py) (src/1174026.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [35])
+(src/1174026.py) (src/1174026.py) (src/1174026.py)
+Overfull \hbox (4.53737pt too wide) in paragraph at lines 550--553
 []\OT1/ptm/m/n/10 Buatlah fungsi den-gan in-putan vari-abel NPM, di-dalam-nya m
 elakukan melakukan
  []
 
-(F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py) (F:/xxx\src/1174026.py)
+(src/1174026.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -574,23 +761,40 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[30] (F:/xxx\src/1174026.py) (F:/xxx\src/main.py) (F:/xxx\src/main.py)
-(F:/xxx\src/1174026.py)
+[36] (src/1174026.py) (src/1174026.py) (src/1174026.py) (src/main.py)
+(src/main.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[31] (F:/xxx\src/1174003/1174003.py) (F:/xxx\src/1174003/1174003.py)
-(F:/xxx\src/1174003/1174003.py)
-Overfull \hbox (28.56627pt too wide) in paragraph at lines 515--517
+ [37])
+(src/1174026.py) (src/1174003/1174003.py) (src/1174003/1174003.py)
+(src/1174003/1174003.py)
+Overfull \hbox (28.56627pt too wide) in paragraph at lines 599--601
 \OT1/ptm/m/n/10 adalah se-ba-gai berikut : from bte im-port penulisan print (pe
 nulisan(int(input(''Masukan
  []
 
-(F:/xxx\src/1174003/1174003.py)
+(src/1174003/1174003.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [38])
+(src/1174003/1174003.py) (src/1174003/1174003.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [39])
+(src/1174003/1174003.py)
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+ (src/1174003/1174003.py)
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+ (src/1174003/1174003.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [40])
+(src/1174009/tugas.py) (src/1174009/tugas.py) (src/1174009/tugas.py)
+(src/1174009/tugas.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -598,91 +802,35 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[32] (F:/xxx\src/1174003/1174003.py) (F:/xxx\src/1174003/1174003.py)
-(F:/xxx\src/1174003/1174003.py
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
- [33])
-
-! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.531 ...denya, pemakaian paket fungsi apabila Ô¨Å
-                                                  le library ada di dalam fo...
-
-? 
-(F:/xxx\src/1174003/1174003.py)
-
-! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.535 ...odenya, pemakaian paket kelas apabila Ô¨Å
-                                                  le library ada di dalam fo...
-
-? 
-(F:/xxx\src/1174003/1174003.py)
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[34] (F:/xxx\src/1174009/tugas.py) (F:/xxx\src/1174009/tugas.py)
-(F:/xxx\src/1174009/tugas.py) (F:/xxx\src/1174009/tugas.py)
-(F:/xxx\src/1174009/tugas.py)
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[35] (F:/xxx\src/1174009/tugas.py)
-Overfull \hbox (14.13771pt too wide) in paragraph at lines 564--566
+[41] (src/1174009/tugas.py) (src/1174009/tugas.py)
+Overfull \hbox (14.13771pt too wide) in paragraph at lines 648--650
 \OT1/ptm/m/n/10 port Pe-nam-ba-han dis-er-tai den-gan con-toh kode lain-nya. Pe
 ng-gu-naan paket berfungsi
  []
 
-(F:/xxx\src/1174009/tugas.py)
-
-! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.568 ...denya, pemakaian paket fungsi apabila Ô¨Å
-                                                  le library ada di dalam fo...
-
-? 
-(F:/xxx\src/1174009/tugas.py)
-
-! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.572 ...odenya, pemakaian paket kelas apabila Ô¨Å
-                                                  le library ada di dalam fo...
-
-? 
-(F:/xxx\src/1174009/tugas.py) (F:/xxx\src/1174009/1174009.py
+(src/1174009/tugas.py)
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+ (src/1174009/tugas.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [36])
-(F:/xxx\src/1174009/1174009.py)
+ [42]
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+
+(src/1174009/tugas.py) (src/1174009/1174009.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [43])
+(src/1174009/1174009.py) (src/1174009/1174009.py) (src/1174009/1174009.py)
+(src/1174009/1174009.py) (src/1174009/1174009.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [44])
+(src/1174009/1174009.py) (src/1174009/1174009.py) (src/1174009/1174009.py)
+(src/1174009/1174009.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -690,18 +838,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[37] (F:/xxx\src/1174009/1174009.py) (F:/xxx\src/1174009/1174009.py)
-(F:/xxx\src/1174009/1174009.py) (F:/xxx\src/1174009/1174009.py)
-(F:/xxx\src/1174009/1174009.py) (F:/xxx\src/1174009/1174009.py
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
+[45] (src/1174009/main.py) (src/1174009/main.py) (src/1174009/tugas.py)
+<figures/Wiyul.png, id=295, 1028.34187pt x 578.16pt>
+File: figures/Wiyul.png Graphic file (type png)
+<use figures/Wiyul.png>
+Package pdftex.def Info: figures/Wiyul.png  used on input line 706.
+(pdftex.def)             Requested size: 170.70471pt x 170.71451pt.
 
- [38])
-(F:/xxx\src/1174009/1174009.py) (F:/xxx\src/1174009/1174009.py)
-(F:/xxx\src/1174009/main.py) (F:/xxx\src/1174009/main.py
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
- [39])
-(F:/xxx\src/1174009/tugas.py) (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -709,7 +852,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[40] (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py)
+[46] (src/1174004.py) (src/1174004.py) (src/1174004.py) (src/1174004.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [47 <./figures/Wiyul.png>]) (src/1174004.py) (src/1174004.py) (src/1174004.py)
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -717,33 +864,123 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[41] (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py)
-(F:/xxx\src/1174004.py
+[48] (src/1174004.py) (src/1174004.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [42])
+ [49])
+(src/1174004.py) (src/1174004.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [50])
+(src/1174004.py) (src/1174004.py) (src/1174004.py)
+Overfull \hbox (4.53737pt too wide) in paragraph at lines 799--802
+[]\OT1/ptm/m/n/10 Buatlah fungsi den-gan in-putan vari-abel NPM, di-dalam-nya m
+elakukan melakukan
+ []
+
+(src/1174004.py) (src/1174004.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [51])
+(src/1174004.py) (src/1174004.py) (src/main.py) (src/main.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52] (src/1174004.py) (src/1174017.py) (src/1174017.py) (src/1174017.py)
+(src/1174017.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[53] (src/1174017.py) (src/1174017.py) (src/1174017.py) (src/1174017.py)
+(src/1174017.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
+ [55])
+(src/1174017.py) (src/1174017.py) (src/1174017.py) (src/1174017.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[43] (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py)
-(F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
- [44])
-Overfull \hbox (4.53737pt too wide) in paragraph at lines 708--711
+[56] (src/1174017.py)
+Overfull \hbox (4.53737pt too wide) in paragraph at lines 919--922
 []\OT1/ptm/m/n/10 Buatlah fungsi den-gan in-putan vari-abel NPM, di-dalam-nya m
 elakukan melakukan
  []
 
-(F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py) (F:/xxx\src/1174004.py)
-(F:/xxx\src/1174004.py)
+(src/1174017.py) (src/1174017.py) (src/1174017.py) (src/1174017.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [57])
+(src/main.py) (src/main.py) (src/1174017.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [58]
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py)
+Overfull \hbox (3.77686pt too wide) in paragraph at lines 990--993
+[]\OT1/ptm/m/n/10 Kelas Ke-las adalah cetak biru atau pro-totipe dari ob-jek di
+-mana kita mendefin-
+ []
+
+(src/1174002/Chapter3/1174002.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [59])
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [60])
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [61])
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [62])
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/1174002.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [63])
+(src/1174002/Chapter3/1174002.py) (src/1174002/Chapter3/1174002.py)
+(src/1174002/Chapter3/main.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [64]
+(src/1174002/Chapter3/main.py) (src/1174002/Chapter3/1174002.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [65])
+<figures/habib.png, id=359, 1371.1225pt x 770.88pt>
+File: figures/habib.png Graphic file (type png)
+<use figures/habib.png>
+Package pdftex.def Info: figures/habib.png  used on input line 1094.
+(pdftex.def)             Requested size: 170.69948pt x 170.71158pt.
+
+(src/1174025/1174025.py) (src/1174025/1174025.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -751,7 +988,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[45] (F:/xxx\src/main.py) (F:/xxx\src/main.py) (F:/xxx\src/1174004.py))
+[66 <./figures/habib.png>] (src/1174025/1174025.py) (src/1174025/1174025.py)
+(src/1174025/1174025.py) (src/1174025/1174025.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [67])
+(src/1174025/1174025.py)
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+ (src/1174025/1174025.py)
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+ (src/1174025/1174025.py)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -759,37 +1009,76 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[46]
+[68] (src/1174025/1174025.py) (src/1174025/1174025.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [69])
+(src/1174025/1174025.py) (src/1174025/1174025.py) (src/1174025/1174025.py)
+(src/1174025/1174025.py) (src/1174025/1174025.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [70])
+(src/1174025/1174025.py) (src/1174025/1174025.py) (src/1174025/1174025.py)
+(src/1174025/main.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [71])
+(src/1174025/main.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[72] (src/1174025/1174025.py))
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[73] [74
+
+]
 No file main.ind.
 (main.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4173 strings out of 492946
- 59155 string characters out of 3135531
- 663935 words of memory out of 3000000
- 7667 multiletter control sequences out of 15000+200000
+ 4077 strings out of 493305
+ 65910 string characters out of 3129802
+ 660346 words of memory out of 3000000
+ 7058 multiletter control sequences out of 15000+200000
  65630 words of font info for 120 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,47p,477b,1817s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
-rw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (77 pages, 291523 bytes).
+ 42i,14n,47p,472b,1666s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dezha/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/dezha/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dezha/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
+/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helv
+etic/uhvb8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvbo8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/helvetic/uhvr8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/dezha/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/dezha/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (105 pages, 2664536 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
+ 438 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
