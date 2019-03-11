@@ -1193,3 +1193,104 @@ contoh kodenya adalah sebagai berikut :
  \lstinputlisting[caption = Penggunaan Try Except .,firstline=214, lastline=221]{src/1174025/1174025.py}
 
 \end{enumerate} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Damara Benedikta}
+\subsection{Pemahaman Teori}
+\begin{enumerate}
+    \item Apa itu fungsi, inputan fungsi dan kembalian fungsi dengan contoh kode program lainnya.
+Fungsi memiliki tujuan agar kita dapat memecah program besar menjadi sub-sub program yang lebih sederhana.pada masing-masing  fitur pada program dapat dibuat dalam satu fungsi. Pada saat kita membutuhkan suatu fitur maka kita tinggal memanggil fungsi yang telah kita buat. Fungsi pada python dibuat dengan menggunakan kata kunci def dan diikuti dengan nama fungsi yang telah kita buat seperti contoh dibawah ini :
+ \lstinputlisting[firstline=10, lastline=10]{src/1174012/1174012.py}
+Inputan fungsi merupakan masukan yang kita berikan pada program dan program akan menampilkan hasil dari inputan yang telah kita masukkan atau akan menampilkan hasil pada proses selanjutnya. contoh dari inputan fungsi sebagai berikut :
+ \lstinputlisting[firstline=11, lastline=11]{src/1174012/1174012.py}
+Pengembalian fungsi memiliki tujuan untuk mengembalikan nilai dari hasil yang telah di proses. Dalam hal ini menggunakan kata kunci return yang diikuti dengan nilai atau variabel yang akan dikembalikan.
+ \lstinputlisting[firstline=10, lastline=14]{src/1174012/1174012.py}
+
+    \item Apa itu paket dan cara pemanggilan paket atau library dengan contoh kode program lainnya.
+Library atau paket adalah modul-modul yang menyusun python. Modul-modul tersebut ditulis oleh berbagai orang dari seluruh dunia dan memiliki fungsi masing-masing untuk melakukan suatu hal. contoh kode programnya adalah sebagai berikut :
+ \lstinputlisting[firstline=17, lastline=18]{src/1174012/1174012.py}
+
+    \item Jelaskan Apa itu kelas, apa itu objek, apa itu atribut, apa itu method dan contoh kode program lainnya masing-masing.
+kelas adalah Prototype atau blueprint untuk menciptakan suatu object  yang mendefinisikan seperangkat atribut yang menjadi ciri objek kelas apa pun. Objek ialah instansiasi atau perwujudan dari sebuah kelas. Bila kelas adalah prototipenya, dan objek adalah hasil dari class jadinya. Atribut merupakan data dari anggota (variabel kelas, variabel contoh) dan metode, yang diakses dengan notasi titik. Sedangkan method fungsi yang didefinisikan di dalam suatu kelas.
+ \lstinputlisting[firstline=21, lastline=40]{src/1174012/1174012.py}
+
+    \item Jelaskan cara pemanggilan library kelas dari instansiasi dan pemakaiannya dengan contoh program lainnya.
+cara pemanggilan  library kelas dari instansiasi dan pemakaiannya adalah dengan cara meng-import library yang ada di dalam satu folder dengan menggunakan kode berikut :
+ \lstinputlisting[firstline=43, lastline=51]{src/1174012/1174012.py}
+
+    \item Jelaskan dengan contoh pemakaian paket dengan perintah from kalkulator import Penambahan disertai dengan contoh kode lainnya.
+contoh kodenya adalah sebagai berikut :
+ \lstinputlisting[firstline=54, lastline=57]{src/1174012/1174012.py}
+
+    \item Jelaskan dengan contoh kodenya, pemakaian paket fungsi apabila ﬁle library ada di dalam folder.
+ Pemakaian paket adalah perkumpulan fungsi-fungsi. contoh kodenya adalah sebagai berikut :
+ \lstinputlisting[firstline=60, lastline=73]{src/1174012/1174012.py}
+
+    \item Jelaskan dengan contoh kodenya, pemakaian paket kelas apabila ﬁle library ada di dalam folder.
+ \lstinputlisting[firstline=76, lastline=84]{src/1174012/1174012.py}
+
+\end{enumerate}
+
+\subsection{Praktek}
+\begin{enumerate}
+    \item jawaban no 1
+ \lstinputlisting[firstline=87, lastline=121]{src/1174012/1174012.py}
+
+    \item jawaban no 2
+ \lstinputlisting[firstline=124, lastline=129]{src/1174012/1174012.py}
+
+    \item jawaban no 3
+ \lstinputlisting[firstline=132, lastline=139]{src/1174012/1174012.py}
+
+    \item jawaban no 4
+ \lstinputlisting[firstline=142, lastline=146]{src/1174012/1174012.py}
+
+    \item jawaban no 5
+ \lstinputlisting[firstline=149, lastline=153]{src/1174012/1174012.py}
+
+    \item jawaban no 6
+ \lstinputlisting[firstline=156, lastline=161]{src/1174012/1174012.py}
+
+    \item jawaban no 7
+ \lstinputlisting[firstline=164, lastline=169]{src/1174012/1174012.py}
+
+    \item jawaban no 8
+ \lstinputlisting[firstline=172, lastline=178]{src/1174012/1174012.py}
+
+    \item jawaban no 9
+ \lstinputlisting[firstline=181, lastline=186]{src/1174012/1174012.py}
+
+    \item jawaban no 10
+ \lstinputlisting[firstline=189, lastline=204]{src/1174012/1174012.py}
+
+    \item jawaban 11
+ \lstinputlisting[firstline=8, lastline=22]{src/1174012/main.py}
+ \item jawaban 12
+ \lstinputlisting[firstline=24, lastline=39]{src/1174012/main.py}
+\end{enumerate}
+
+\subsection{Ketrampilan Penanganan Error}
+\begin{enumerate}
+	\item Peringatan error yang ditemukan dan penjelasannya serta buat sebuah fungsi try except untuk menanggulangi error.
+	
+	Peringatan error di praktek ketiga ini, yaitu:
+	\begin{itemize}
+		\item Syntax Errors
+		Syntax Errors adalah suatu keadaan saat kode python mengalami kesalahan penulisan. Solusinya adalah memperbaiki penulisan kode yang salah.
+		
+		\item Zero Division Error
+		ZeroDivisonError adalah exceptions yang terjadi saat eksekusi program menghasilkan perhitungan matematika pembagian dengan angka nol (0). Solusinya adalah tidak membagi suatu yang hasilnya nol.
+		
+		\item Name Error
+		NameError adalah exception yang terjadi saat kode melakukan eksekusi terhadap local name atau global name yang tidak terdefinisi. Solusinya adalah memastikan variabel atau function yang dipanggil ada atau tidak salah ketik.
+		
+		\item Type Error
+		TypeError merupakan suatu exception yang terjadi saat akan mengeksekusi suatu operasi atau fungsi dengan type object yang tidak sesuai. Solusinya adalah mengkoversi varibelnya sesuai dengan tipe data yang akan digunakan.
+	\end{itemize}
+   \end{enumerate}
+
+   \begin{figure}
+   \centering
+   \includegraphics[width=6cm,height=6cm]{figures/damaraa.png}
+   \caption{SS plagiarisme}
+   \label{damara}
+   \end{figure}
