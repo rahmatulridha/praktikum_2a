@@ -321,3 +321,30 @@ def prime(npm):
     else:
         print("Tidak Ada Bilangan Prima")
 prime(int(input("Masukan NPM : ")))
+
+#Jawaban No. 6
+from folder import kalkulator
+
+a=100
+b=50
+
+hasil1=kalkulator.Penambahan(a,b)
+hasil2=kalkulator.Pengurangan(a,b)
+hasil3=kalkulator.Perkalian(a,b)
+hasil4=kalkulator.Pembagian(a,b)
+
+print(hasil1)
+print(hasil2)
+print(hasil3)
+print(hasil4)
+
+#Jawaban No. 7
+from folder.Mahasiswa import Mahasiswa
+
+mhs1 = Mahasiswa("1174006", "Diva Krishna")
+mhs2 = Mahasiswa("1174001", "Indah Pramesti")
+
+mhs1.tampilkanProfil()
+mhs2.tampilkanProfil()
+
+print("Total mahasiswa adalah ", Mahasiswa.jumlahMahasiswa)
