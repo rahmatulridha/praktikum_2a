@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xi}
-\contentsline {schapter}{Daftar Tabel}{xiii}
-\contentsline {schapter}{Foreword}{xvii}
-\contentsline {schapter}{Kata Pengantar}{xix}
-\contentsline {schapter}{Acknowledgments}{xxi}
-\contentsline {schapter}{Acronyms}{xxiii}
-\contentsline {schapter}{Glossary}{xxv}
-\contentsline {schapter}{List of Symbols}{xxvii}
-\contentsline {schapter}{Introduction}{xxix}
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}
+\contentsline {schapter}{Daftar Gambar}{xiii}
+\contentsline {schapter}{Daftar Tabel}{xv}
+\contentsline {schapter}{Foreword}{xxvii}
+\contentsline {schapter}{Kata Pengantar}{xxix}
+\contentsline {schapter}{Acknowledgments}{xxxi}
+\contentsline {schapter}{Acronyms}{xxxiii}
+\contentsline {schapter}{Glossary}{xxxv}
+\contentsline {schapter}{List of Symbols}{xxxvii}
+\contentsline {schapter}{Introduction}{xxxix}
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxix}
 \contentsline {chapter}{\numberline {1}SEJARAH DAN KARAKTERISTIK PYTHON}{1}
 \contentsline {chapter}{\numberline {2}Judul Bagian Kedua}{3}
 \contentsline {chapter}{\numberline {3}Judul Bagian Ketiga}{5}
@@ -70,3 +70,8 @@
 \contentsline {subsection}{\numberline {3.14.2}Keterampilan Pemrograman}{98}
 \contentsline {subsection}{\numberline {3.14.3}Keterampilan Penanganan Error}{101}
 \contentsline {section}{\numberline {3.15}Hasil}{102}
+\contentsline {section}{\numberline {3.16}Nico Ekklesia Sembiring}{104}
+\contentsline {subsection}{\numberline {3.16.1}Tugas Teori}{104}
+\contentsline {subsection}{\numberline {3.16.2}Tugas Keterampilan Pemrograman}{107}
+\contentsline {subsection}{\numberline {3.16.3}Ketrampilan Penanganan Error}{110}
+\contentsline {subsection}{\numberline {3.16.4}Cek Plagiarisme}{110}
