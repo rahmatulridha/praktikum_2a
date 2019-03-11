@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 11 16:14:54 2019
+Created on Mon Mar 11 20:08:13 2019
 
-@author: Aegis
+@author: PERSONAL
 """
-from fungsi_harun import penulisan
+
+from fungsi_arjun import penulisan
 from 3lib import penulisan
 
 print(penulisan(int(input("Masukan NPM :"))))
