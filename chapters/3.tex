@@ -1,4 +1,4 @@
-﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Harun Ar - Rasyid}
 \subsubsection{Pemahanan Teori}
 \begin{enumerate}
@@ -1542,3 +1542,113 @@ Hasil tampilan pemahaman teori :
 	Contoh fungsi yang menggunakan try except
 	\lstinputlisting[caption= Fungsi yang menggunakan try except ,firstline=255, lastline=261]{src/1174021/1174021.py}
 \end{enumerate}
+
+
+\section{Muhammad Dzihan Al-Banna}
+\subsection{Pemahaman Teori}
+\subsubsection{Apa itu fungsi}
+Fungsi adalah sebuah program yang dapat digunakan ulang. Sebuah fungsi dapat digunakan ulang dengan cara memberi nama pada blok statemen kemudian nama tersebut dapat dipanggil dalam program lain. 
+\lstinputlisting[caption = contoh fungsi, firstline=8, lastline=11]{src/1174095/persib.py}
+Inputan fungsi adalah sebuah fungsi yang mempunyai interkasi dengan user dan dapat menginputkan value.
+\lstinputlisting[caption = contoh input fungsi, firstline=14, lastline=17]{src/1174095/persib.py}
+Kembalian fungsi adalah hasil yang dikembalikan dari inputan.
+\lstinputlisting[caption = contoh fungsi yang menghasilkan kembalian, firstline=20, lastline=127]{src/1174095/persib.py} 
+\subsubsection{Apa itu paket}
+Package adalah suatu teknik pengemasan modul di dalam python. Package menyediakan kemampuan bagi programmer untuk mengelompokkan modul yang telah dibuat. untuk pemanggilan sebuah package maka perlu dibuat dulu package yang akan dipanggil dan cara memanggilnya seperti berikut :
+\lstinputlisting[caption = pakcage, firstline=28, lastline=31]{src/1174095/persib.py}
+
+\subsubsection{Apa itu kelas, objek dan atribut}
+kelas adalah Prototipe yang ditentukan oleh pengguna untuk sebuah objek yang mendefinisikan seperangkat atribut yang menjadi ciri objek kelas.
+\lstinputlisting[caption = kelas python, firstline=32, lastline=49]{src/1174095/persib.py}
+Atribut adalah data anggota dan metode,dapat diakses melalui notasi titik.
+Objek adalah Contoh unik dari struktur yang didefinisikan oleh kelas. 
+Objek terdiri dari kedua anggota data (variabel kelas dan variabel contoh) dan metode.
+\lstinputlisting[caption = objek, firstline=43, lastline=44]{src/1174095/persib.py}
+dan atribut seperti code di bawah ini :
+\lstinputlisting[caption = atribut, firstline=49, lastline=49]{src/1174095/persib.py}
+\subsubsection{pemanggilan library}
+Dalam pemanggilan sebuah package ada langkah-langkah yang harus dikerjakan seperti langkah berikut ini :
+\begin{enumerate}
+	\item Import dahulu paket yang akan dipanggil
+	\item buat variabel
+	\item panggil method dan class
+	\item buat print untuk menampilkan hasilnya
+	print("Sepedanya ", Sepeda.jumlahSepeda)
+	\lstinputlisting[caption = pemanggilan pakcage, firstline=52, lastline=60]{src/1174095/persib.py}
+\end{enumerate}
+\subsubsection{Pemakaian paket}
+\lstinputlisting[caption = pemakaian package, firstline=62, lastline=62]{src/1174095/persib.py}
+\subsubsection{Paket fungsi file di dalam folder}
+\lstinputlisting[caption = pemanggilan file dalam folder, firstline=64, lastline=68]{src/1174095/persib.py}
+\subsubsection{Paket kelas file di dalam folder}
+\lstinputlisting[caption = pemakaian package kelas di luar folder, firstline=62, lastline=62]{src/1174095/persib.py}
+\subsection{Keterampilan Pemrograman}
+\begin{enumerate}
+	\item Tugas 1
+	\lstinputlisting[caption = tugas 1, firstline=9, lastline=43]{src/1174095/radovic.py}
+	\begin{figure}
+		
+		\caption{}
+	\end{figure}
+	\item Tugas 2
+	\lstinputlisting[caption = pemakaian package, firstline=46, lastline=51]{src/1174095/radovic.py}
+	\item Tugas 3
+	\lstinputlisting[caption = pemakaian package, firstline=54, lastline=61]{src/1174095/radovic.py}
+	\item Tugas 4
+	\lstinputlisting[caption = pemakaian package, firstline=64, lastline=68]{src/1174095/radovic.py}
+	\item Tugas 5
+	\lstinputlisting[caption = pemakaian package, firstline=71, lastline=75]{src/1174095/radovic.py}
+	\item Tugas 6
+	\lstinputlisting[caption = pemakaian package, firstline=78, lastline=83]{src/1174095/radovic.py}
+	\item Tugas 7
+	\lstinputlisting[caption = pemakaian package, firstline=86, lastline=91]{src/1174095/radovic.py}
+	\item Tugas 8
+	\lstinputlisting[caption = pemakaian package, firstline=94, lastline=100]{src/1174095/radovic.py}
+	\item Tugas 9
+	\lstinputlisting[caption = pemakaian package, firstline=103, lastline=108]{src/1174095/radovic.py}
+	\item Tugas 10
+	\lstinputlisting[caption = pemakaian package, firstline=112, lastline=127]{src/1174095/radovic.py}
+	\item Tugas 11
+	\lstinputlisting[caption = pemakaian package, firstline=1, lastline=3]{src/1174095/main.py}
+	\item Tugas 12
+	\lstinputlisting[caption = pemakaian package, firstline=5, lastline=9]{src/1174095/main.py}
+\end{enumerate}
+\subsection{Keterampilan Penanganan Error}
+\begin{enumerate}
+	\item Peringatan error yang ditemukan dan penjelasannya serta buat sebuah fungsi try except untuk menanggulangi error.
+	
+	Peringatan error di praktek ketiga ini, yaitu:
+	\begin{itemize}
+		\item Syntax Errors
+		Syntax Errors adalah suatu keadaan disaat kode mengalami kesalahan penulisan. Cara menanganinya adalah dengan memperbaiki penulisan kode yang salah.
+		
+		\item Zero Division Error
+		Zero Divison Error adalah exceptions yang terjadi saat eksekusi program menghasilkan perhitungan matematika pembagian dengan angka nol (0). Solusinya adalah tidak membagi suatu yang hasilnya nol.
+		
+		\item Name Error
+		NameError adalah exception yang terjadi saat melakukan eksekusi terhadap local name atau global name yang tidak terdefinisi. Solusinya adalah memastikan bahwa variabel atau function yang dipanggil tidak salah penulisan.
+		
+		\item Type Error
+		TypeError adalah exception yang terjadi saat melakukan eksekusi terhadap suatu operasi atau fungsi dengan type object yang tidak sesuai. Solusinya adalah mengkoversi varibelnya sesuai dengan tipe data yang akan digunakan.
+		\lstinputlisting[caption = pemakaian package, firstline=131, lastline=137]{src/1174095/radovic.py}
+	\end{itemize}
+\end{enumerate}
+
+\section{Hasil}
+\begin{itemize}
+	\item Hasil
+	\begin{figure}[H]
+		\includegraphics[width=10cm]{figures/dzihan/hasil.png}
+		\centering
+	\end{figure}
+	\item Hasil 2
+	\begin{figure}[H]
+		\includegraphics[width=10cm]{figures/dzihan/2f.png}
+		\centering
+	\end{figure}
+	\item hasil 3
+	\begin{figure}[H]
+		\includegraphics[width=10cm]{figures/dzihan/3.png}
+		\centering
+	\end{figure}
+\end{itemize}
