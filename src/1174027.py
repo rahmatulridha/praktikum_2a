@@ -181,6 +181,8 @@ print(c)
 #    except TypeError:
 #        print("We Are Different")
 
+#from src.fungsi_harun import *
+
 #Chapter 3
 #No 1
 def penulisan(npm):
