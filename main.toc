@@ -50,5 +50,23 @@
 \contentsline {section}{\numberline {4.7}Habib Abdul Rasyid}{21}
 \contentsline {subsection}{\numberline {4.7.1}Pemahaman Teori}{21}
 \contentsline {section}{\numberline {4.8}Kadek Diva Krishna Murti}{24}
-\contentsline {chapter}{\numberline {5}Kelompok 2}{33}
-\contentsline {chapter}{\numberline {6}Kelompok 3}{35}
+\contentsline {section}{\numberline {4.9}Arjun Yuda Firwanda}{32}
+\contentsline {section}{\numberline {4.10}Damara benedikta}{33}
+\contentsline {subsection}{\numberline {4.10.1}Pemahaman Materi}{33}
+\contentsline {paragraph}{}{33}
+\contentsline {paragraph}{}{34}
+\contentsline {subsection}{\numberline {4.10.2}Membuat dan membaca csv di excel atau spreadsheet}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {section}{\numberline {4.11}Muh. Rifky Prananda}{35}
+\contentsline {section}{\numberline {4.12}Oniwaldus Bere Mali}{36}
+\contentsline {subsection}{\numberline {4.12.1}Cek Plagiarisme}{37}
+\contentsline {section}{\numberline {4.13}Muhammad Tomy Nur Maulidy}{37}
+\contentsline {subsection}{\numberline {4.13.1}Pemahaman Materi}{37}
+\contentsline {section}{\numberline {4.14}Dezha Aidil Martha}{39}
+\contentsline {subsection}{\numberline {4.14.1}Cek Plagiarisme}{40}
+\contentsline {chapter}{\numberline {5}Kelompok 2}{41}
+\contentsline {chapter}{\numberline {6}Kelompok 3}{43}
