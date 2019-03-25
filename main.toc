@@ -1,72 +1,86 @@
-\contentsline {schapter}{Daftar Gambar}{xi}
-\contentsline {schapter}{Daftar Tabel}{xiii}
-\contentsline {schapter}{Foreword}{xvii}
-\contentsline {schapter}{Kata Pengantar}{xix}
-\contentsline {schapter}{Acknowledgments}{xxi}
-\contentsline {schapter}{Acronyms}{xxiii}
-\contentsline {schapter}{Glossary}{xxv}
-\contentsline {schapter}{List of Symbols}{xxvii}
-\contentsline {schapter}{Introduction}{xxix}
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}
-\contentsline {chapter}{\numberline {1}SEJARAH DAN KARAKTERISTIK PYTHON}{1}
-\contentsline {chapter}{\numberline {2}Judul Bagian Kedua}{3}
-\contentsline {chapter}{\numberline {3}Judul Bagian Ketiga}{5}
-\contentsline {chapter}{\numberline {4}Kelompok 1}{7}
-\contentsline {section}{\numberline {4.1}Harun Ar - Rasyid}{7}
-\contentsline {section}{\numberline {4.2}Dwi Yulianingsih}{9}
-\contentsline {subsection}{\numberline {4.2.1}Pemahaman Materi}{9}
-\contentsline {paragraph}{}{9}
-\contentsline {paragraph}{}{10}
-\contentsline {subsection}{\numberline {4.2.2}Membuat dan membaca csv di excel atau spreadsheet}{10}
-\contentsline {paragraph}{}{10}
-\contentsline {paragraph}{}{11}
-\contentsline {paragraph}{}{11}
-\contentsline {paragraph}{}{11}
-\contentsline {paragraph}{}{11}
-\contentsline {subsection}{\numberline {4.2.3}bukti bebas plagiarisme}{12}
-\contentsline {section}{\numberline {4.3}Muhammad Dzihan Al-Banna}{12}
-\contentsline {subsection}{\numberline {4.3.1}Sejarah Csv}{12}
-\contentsline {paragraph}{}{12}
-\contentsline {subsubsection}{\numberline {4.3.1.1}Fungsi CSV}{12}
-\contentsline {paragraph}{}{13}
-\contentsline {subsection}{\numberline {4.3.2}Aplikasi yang dapat menghasilkan csv}{13}
-\contentsline {paragraph}{}{13}
-\contentsline {subsection}{\numberline {4.3.3}Membuat dan membaca csv di excel atau spreadsheet}{13}
-\contentsline {subsubsection}{\numberline {4.3.3.1}Membuat dan membaca csv di excel}{13}
-\contentsline {subsection}{\numberline {4.3.4}Sejarah Library CSV}{13}
-\contentsline {paragraph}{}{13}
-\contentsline {subsection}{\numberline {4.3.5}Sejarah Library Pandas}{13}
-\contentsline {paragraph}{}{13}
-\contentsline {subsection}{\numberline {4.3.6}Fungsi-fungsi Library CSV}{14}
-\contentsline {paragraph}{}{14}
-\contentsline {subsection}{\numberline {4.3.7}Fungsi-fungsi library Pandas}{14}
-\contentsline {paragraph}{}{14}
-\contentsline {subsection}{\numberline {4.3.8}Bukti Plagiarisme}{14}
-\contentsline {section}{\numberline {4.4} Dwi Septiani Tsaniyah }{15}
-\contentsline {section}{\numberline {4.5}Choirul Anam}{17}
-\contentsline {section}{\numberline {4.6}Nico Ekklesia Sembiring}{18}
-\contentsline {subsection}{\numberline {4.6.1}Pemahaman Teori}{18}
-\contentsline {subsection}{\numberline {4.6.2}Cek Plagiarisme}{21}
-\contentsline {section}{\numberline {4.7}Habib Abdul Rasyid}{21}
-\contentsline {subsection}{\numberline {4.7.1}Pemahaman Teori}{21}
-\contentsline {section}{\numberline {4.8}Kadek Diva Krishna Murti}{24}
-\contentsline {section}{\numberline {4.9}Arjun Yuda Firwanda}{32}
-\contentsline {section}{\numberline {4.10}Damara benedikta}{33}
-\contentsline {subsection}{\numberline {4.10.1}Pemahaman Materi}{33}
-\contentsline {paragraph}{}{33}
-\contentsline {paragraph}{}{34}
-\contentsline {subsection}{\numberline {4.10.2}Membuat dan membaca csv di excel atau spreadsheet}{34}
-\contentsline {paragraph}{}{34}
-\contentsline {paragraph}{}{34}
-\contentsline {paragraph}{}{34}
-\contentsline {paragraph}{}{35}
-\contentsline {paragraph}{}{35}
-\contentsline {section}{\numberline {4.11}Muh. Rifky Prananda}{35}
-\contentsline {section}{\numberline {4.12}Oniwaldus Bere Mali}{36}
-\contentsline {subsection}{\numberline {4.12.1}Cek Plagiarisme}{37}
-\contentsline {section}{\numberline {4.13}Muhammad Tomy Nur Maulidy}{37}
-\contentsline {subsection}{\numberline {4.13.1}Pemahaman Materi}{37}
-\contentsline {section}{\numberline {4.14}Dezha Aidil Martha}{39}
-\contentsline {subsection}{\numberline {4.14.1}Cek Plagiarisme}{40}
-\contentsline {chapter}{\numberline {5}Kelompok 2}{41}
-\contentsline {chapter}{\numberline {6}Kelompok 3}{43}
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
+\contentsline {chapter}{\numberline {1}SEJARAH DAN KARAKTERISTIK PYTHON}{1}% 
+\contentsline {chapter}{\numberline {2}Judul Bagian Kedua}{3}% 
+\contentsline {chapter}{\numberline {3}Judul Bagian Ketiga}{5}% 
+\contentsline {chapter}{\numberline {4}Kelompok 1}{7}% 
+\contentsline {section}{\numberline {4.1}Harun Ar - Rasyid}{7}% 
+\contentsline {section}{\numberline {4.2}Dwi Yulianingsih}{9}% 
+\contentsline {subsection}{\numberline {4.2.1}Pemahaman Materi}{9}% 
+\contentsline {paragraph}{}{9}% 
+\contentsline {paragraph}{}{10}% 
+\contentsline {subsection}{\numberline {4.2.2}Membuat dan membaca csv di excel atau spreadsheet}{10}% 
+\contentsline {paragraph}{}{10}% 
+\contentsline {paragraph}{}{11}% 
+\contentsline {paragraph}{}{11}% 
+\contentsline {paragraph}{}{11}% 
+\contentsline {paragraph}{}{11}% 
+\contentsline {subsection}{\numberline {4.2.3}bukti bebas plagiarisme}{12}% 
+\contentsline {section}{\numberline {4.3}Muhammad Dzihan Al-Banna}{12}% 
+\contentsline {subsection}{\numberline {4.3.1}Sejarah Csv}{12}% 
+\contentsline {paragraph}{}{12}% 
+\contentsline {subsubsection}{\numberline {4.3.1.1}Fungsi CSV}{12}% 
+\contentsline {paragraph}{}{13}% 
+\contentsline {subsection}{\numberline {4.3.2}Aplikasi yang dapat menghasilkan csv}{13}% 
+\contentsline {paragraph}{}{13}% 
+\contentsline {subsection}{\numberline {4.3.3}Membuat dan membaca csv di excel atau spreadsheet}{13}% 
+\contentsline {subsubsection}{\numberline {4.3.3.1}Membuat dan membaca csv di excel}{13}% 
+\contentsline {subsection}{\numberline {4.3.4}Sejarah Library CSV}{13}% 
+\contentsline {paragraph}{}{13}% 
+\contentsline {subsection}{\numberline {4.3.5}Sejarah Library Pandas}{13}% 
+\contentsline {paragraph}{}{13}% 
+\contentsline {subsection}{\numberline {4.3.6}Fungsi-fungsi Library CSV}{14}% 
+\contentsline {paragraph}{}{14}% 
+\contentsline {subsection}{\numberline {4.3.7}Fungsi-fungsi library Pandas}{14}% 
+\contentsline {paragraph}{}{14}% 
+\contentsline {subsection}{\numberline {4.3.8}Bukti Plagiarisme}{14}% 
+\contentsline {section}{\numberline {4.4} Dwi Septiani Tsaniyah }{15}% 
+\contentsline {section}{\numberline {4.5}Choirul Anam}{17}% 
+\contentsline {section}{\numberline {4.6}Nico Ekklesia Sembiring}{18}% 
+\contentsline {subsection}{\numberline {4.6.1}Pemahaman Teori}{18}% 
+\contentsline {subsection}{\numberline {4.6.2}Cek Plagiarisme}{21}% 
+\contentsline {section}{\numberline {4.7}Habib Abdul Rasyid}{21}% 
+\contentsline {subsection}{\numberline {4.7.1}Pemahaman Teori}{21}% 
+\contentsline {section}{\numberline {4.8}Kadek Diva Krishna Murti}{24}% 
+\contentsline {section}{\numberline {4.9}Arjun Yuda Firwanda}{32}% 
+\contentsline {section}{\numberline {4.10}Damara benedikta}{33}% 
+\contentsline {subsection}{\numberline {4.10.1}Pemahaman Materi}{33}% 
+\contentsline {paragraph}{}{33}% 
+\contentsline {paragraph}{}{34}% 
+\contentsline {subsection}{\numberline {4.10.2}Membuat dan membaca csv di excel atau spreadsheet}{34}% 
+\contentsline {paragraph}{}{34}% 
+\contentsline {paragraph}{}{34}% 
+\contentsline {paragraph}{}{34}% 
+\contentsline {paragraph}{}{35}% 
+\contentsline {paragraph}{}{35}% 
+\contentsline {section}{\numberline {4.11}Muh. Rifky Prananda}{35}% 
+\contentsline {section}{\numberline {4.12}Oniwaldus Bere Mali}{36}% 
+\contentsline {subsection}{\numberline {4.12.1}Cek Plagiarisme}{37}% 
+\contentsline {section}{\numberline {4.13}Muhammad Tomy Nur Maulidy}{37}% 
+\contentsline {subsection}{\numberline {4.13.1}Pemahaman Materi}{37}% 
+\contentsline {section}{\numberline {4.14}Dezha Aidil Martha}{39}% 
+\contentsline {subsection}{\numberline {4.14.1}Cek Plagiarisme}{40}% 
+\contentsline {section}{\numberline {4.15}Evietania Charis Sujadi}{40}% 
+\contentsline {subsection}{\numberline {4.15.1}Fungsi Csv}{40}% 
+\contentsline {paragraph}{}{40}% 
+\contentsline {subsection}{\numberline {4.15.2}Sejarah Csv}{40}% 
+\contentsline {subsection}{\numberline {4.15.3}Aplikasi yang dapat menghasilkan csv}{41}% 
+\contentsline {paragraph}{}{41}% 
+\contentsline {paragraph}{}{41}% 
+\contentsline {paragraph}{}{41}% 
+\contentsline {subsection}{\numberline {4.15.4}Fungsi-fungsi Library CSV}{42}% 
+\contentsline {paragraph}{}{42}% 
+\contentsline {subsection}{\numberline {4.15.5}Fungsi-fungsi library Pandas}{42}% 
+\contentsline {paragraph}{}{42}% 
+\contentsline {subsection}{\numberline {4.15.6}Bukti Plagiarisme}{42}% 
+\contentsline {section}{\numberline {4.16}Doli Jonviter NT Simbolon / 1154016}{42}% 
+\contentsline {chapter}{\numberline {5}Kelompok 2}{47}% 
+\contentsline {chapter}{\numberline {6}Kelompok 3}{49}% 
