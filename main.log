@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.2.25)  26 MAR 2019 02:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  26 MAR 2019 02:48
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-12-01>
 (wileySix.cls
 
 
@@ -17,131 +16,133 @@ Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 
 \phspace=\dimen102
 \SpaceAboveChapterNumber=\dimen103
-\savefootnotenumber=\count79
-\ftnum=\count80
-\saveftnum=\count81
-\c@chapapp=\count82
-\c@part=\count83
-\c@chapter=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\c@figure=\count90
-\c@table=\count91
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \partskip=\skip43
 \tabandfigskip=\skip44
-\footnum=\count92
-\savefootnum=\count93
+\footnum=\count93
+\savefootnum=\count94
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
 Writing index file main.idx
 \iletterskip=\skip45
-\timing=\count94
-\hourcount=\count95
-\oldtime=\count96
-\probcount=\count97
-\subprobcount=\count98
-\c@subproblem=\count99
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
 \c@subproblem=\count100
+\c@subproblem=\count101
 \widthofcropmarks=\dimen104
 \raisetopcropmarks=\dimen105
 \raisebottomcropmarks=\dimen106
 \movecropmarksright=\dimen107
-\c@theorem=\count101
-\c@appfootnote=\count102
+\c@theorem=\count102
+\c@appfootnote=\count103
 \slugwidth=\dimen108
 \slugheight=\dimen109
 \slugdepth=\dimen110
-\c@exampnum=\count103
-\c@algo=\count104
-\c@algorithm=\count105
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
-\lst@mode=\count106
-\lst@gtempboxa=\box26
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listin
+gs.sty"
+\lst@mode=\count107
+\lst@gtempboxa=\box27
 \lst@token=\toks15
-\lst@length=\count107
+\lst@length=\count108
 \lst@currlwidth=\dimen116
-\lst@column=\count108
-\lst@pos=\count109
+\lst@column=\count109
+\lst@pos=\count110
 \lst@lostspace=\dimen117
 \lst@width=\dimen118
-\lst@newlines=\count110
-\lst@lineno=\count111
+\lst@newlines=\count111
+\lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count112
-\lst@skipnumbers=\count113
-\lst@framebox=\box27
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmis
+c.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
+\lst@framebox=\box28
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
-File: listings.cfg 2018/09/02 1.7 listings configuration
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listin
+gs.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2018/09/02 1.7 (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count114
-\float@exts=\toks16
-\float@box=\box28
-\@float@everytoks=\toks17
-\@floatcapt=\box29
-)
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
 "
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count115
+\float@exts=\toks16
+\float@box=\box29
+\@float@everytoks=\toks17
+\@floatcapt=\box30
+)
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.
+sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2018/09/02 1.7 listings language file
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlan
+g1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) (w-bookps.sty
 
 
@@ -152,13 +153,25 @@ File: lstlang1.sty 2018/09/02 1.7 listings language file
 
  
 )
-\sectsavebox=\box30
+\sectsavebox=\box31
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 124.
+ (main.aux
 
-No file main.aux.
+LaTeX Warning: Label `fig:csv' multiply defined.
+
+
+LaTeX Warning: Label `fig:csv' multiply defined.
+
+
+LaTeX Warning: Label `plagiarisme' multiply defined.
+
+
+LaTeX Warning: Label `plagiarisme' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -175,74 +188,71 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.f
+d"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
+\scratchcounter=\count116
 \scratchdimen=\dimen120
-\scratchbox=\box31
-\nofMPsegments=\count116
-\nofMParguments=\count117
+\scratchbox=\box32
+\nofMPsegments=\count117
+\nofMParguments=\count118
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count118
+\MPscratchCnt=\count119
 \MPscratchDim=\dimen121
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks19
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
+df-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infw
+arerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
+.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
-ekeys.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvde
+finekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxc
+mds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
+ons.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
-ys.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvse
+tkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
-s.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etex
+cmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
-x.sty"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
+atex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
-mds.sty"
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+))))
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdft
+excmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
+f.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -256,11 +266,10 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count121
+\c@lstlisting=\count122
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
- [1{C:/Users/dezha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2]
+ [1{C:/Users/JONVITER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
 
@@ -300,53 +309,74 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
  (info/contributors.tex) [5] [6
 
-]
-No file main.toc.
-[7] [8
+] (main.toc) [7] [8
 
-]
-No file main.toc.
+] (main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[9])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-[9] [10
 
-]
-No file main.lof.
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10] (main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
-[11] [12
+ [11
 
-]
-No file main.lot.
+] [12
+
+] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
-[13] [14
+ [13] [14
 
-] (main.lol)
+] (main.lol
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15])
 \tf@lol=\write7
 \openout7 = `main.lol'.
 
- [15] [16
 
-] (info/foreword.tex) [17] [18
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16] (info/foreword.tex) [17
+
+] [18
 
 ] (info/preface.tex) [19] [20
 
-] (info/acknowledgments.tex [21]) [22
+]
+(info/acknowledgments.tex [21]) [22
 
 ] (info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
 
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+("C:\Users\JONVITER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.f
+d"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
-[23] [24
+ [23] [24
 
 ] (info/glossary.tex) [25] [26
 
@@ -400,20 +430,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 36.
 ) (src/1174027/1174027_csv.py)
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
 
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \item Apa itu fungsi Ô¨Å
+                             le csv, jelaskan sejarah dan contoh
+? 
 (src/1174009/dudul.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [9])
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...plikasi apa saja yang bisa menciptakan Ô¨Å
+                                                  le csv?
+? 
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...kan bagaimana cara menulis dan membaca Ô¨Å
+                                                  le csv di excel atau sprea...
+
+? 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -467,14 +521,6 @@ File: figures/dzihan/bukti.png Graphic file (type png)
 <use figures/dzihan/bukti.png>
 Package pdftex.def Info: figures/dzihan/bukti.png  used on input line 127.
 (pdftex.def)             Requested size: 284.52756pt x 159.9605pt.
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no © in font ptmr7t!
-
-Overfull \hbox (8.16629pt too wide) in paragraph at lines 134--138
-\OT1/ptm/m/n/10 yang kom-peti-tif sekali-gus meningkatkan ke-se-jahter-aan sosi
-al melalui pen-ingkatan
- []
-
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -521,27 +567,52 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [17]
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.200 	\item Apa itu fungsi Ô¨Å
+                               le csv, jelaskan sejarah dan contoh. \newline
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
 (src/1174096/Chapter4/1174096.csv)
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 ...likasi apa saja yang bisa menciptakan Ô¨Å
+                                                  le csv?\newline
+? 
 
 Overfull \hbox (8.72618pt too wide) in paragraph at lines 207--209
 \OT1/ptm/m/n/10 Aplikasi yang da-pat men-cip-takan file CSV ter-diri dari Text 
 Ed-i-tor seperti Notepad,
  []
 
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 ...an bagaimana cara menulis dan membaca Ô¨Å
+                                                  le csv di excel atau sprea...
+
+? 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -851,10 +922,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [32 <./figures/diva/Chapter4/kode_teori2.png>]
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
 
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.589 \item Apa itu fungsi Ô¨Å
+                              le csv, jelaskan sejarah dan contoh
+? 
 
 ! Package Listings Error: File `src/1174012/csvako(.py)' not found.
 
@@ -862,9 +940,17 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: py)
 
 Enter file name: 
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.594 ...likasi apa saja yang bisa menciptakan Ô¨Å
+                                                  le csv?
+? 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -874,9 +960,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [33]
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
+
+! Package inputenc Error: Unicode character Ô¨Å (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.598 ...an bagaimana cara menulis dan membaca Ô¨Å
+                                                  le csv di excel atau sprea...
+
+? 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -916,13 +1011,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [37 <./figures/oni/plagiat.PNG>]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ì in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ì in font ptmr7t!
-
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -944,7 +1032,73 @@ File: figures/dezha/noplagiat.PNG Graphic file (type png)
 <use figures/dezha/noplagiat.PNG>
 Package pdftex.def Info: figures/dezha/noplagiat.PNG  used on input line 758.
 (pdftex.def)             Requested size: 85.35284pt x 85.35284pt.
-)
+ (src/1174051/gatau.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [40 <./figures/dezha/noplagiat.PNG>])
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.774  \item J
+              elaskan bagaimana cara menulis dan membaca file csv di excel a...
+
+? 
+
+Underfull \hbox (badness 10000) detected at line 774
+[][]
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.777  \end{itemize}
+                    
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.777  \end{itemize}
+                    
+? 
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.778 \item J
+             elaskan sejarah library csv
+? 
+
+Underfull \hbox (badness 10000) detected at line 778
+[][]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.781 \item J
+             elaskan sejarah library pandas
+? 
+
+Underfull \hbox (badness 10000) detected at line 781
+[][]
+ []
+
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -952,15 +1106,80 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[40 <./figures/dezha/noplagiat.PNG>]
-Bab 5.
-(chapters/4.2.tex) [41
+[41]
+<figures/epi/nih.png, id=286, 638.385pt x 411.03563pt>
+File: figures/epi/nih.png Graphic file (type png)
+<use figures/epi/nih.png>
+Package pdftex.def Info: figures/epi/nih.png  used on input line 791.
+(pdftex.def)             Requested size: 284.52756pt x 183.19565pt.
 
-] [42
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[42 <./figures/epi/nih.png>]
+
+! LaTeX Error: Environment iitemize undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.811 	\begin{iitemize}
+                       
+? 
+
+Overfull \hbox (9.86694pt too wide) in paragraph at lines 816--817
+[]\OT1/ptm/m/n/10 Setelah langkah terse-but se-le-sai Anda bisa menam-bahkan da
+ta baik kolom maupun
+ []
+
+
+! LaTeX Error: \begin{enumerate} on input line 797 ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.819 	\end{itemize}
+                    
+? 
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[43] (src/1154016/1154016_csv.py) (src/1154016/1154016_csv.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44] (src/1154016/1154016_csv.py) (src/1154016/1154016_csv.py))
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[45] [46
+
+]
+Bab 5.
+(chapters/4.2.tex) [47] [48
 
 ]
 Bab 6.
-(chapters/4.3.tex) [43] [44
+(chapters/4.3.tex) [49] [50
 
 ]
 No file main.ind.
@@ -969,36 +1188,36 @@ No file main.ind.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3575 strings out of 493305
- 53163 string characters out of 3129802
- 455346 words of memory out of 3000000
- 6914 multiletter control sequences out of 15000+200000
- 65630 words of font info for 120 fonts, out of 3000000 for 9000
+ 3990 strings out of 492946
+ 58371 string characters out of 3124934
+ 461935 words of memory out of 3000000
+ 7645 multiletter control sequences out of 15000+200000
+ 67644 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,47p,1376b,1589s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dezha/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dezha/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dezha
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
-/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvbo8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/h
-elvetic/uhvr8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/times/utmb8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/times/utmbi8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/urw/times/utmr8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (75 pages, 2331685 bytes).
+ 42i,14n,47p,1376b,1738s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/JONVITER/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
+enc}<C:/Users/JONVITER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/JONVITER/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/JONVITER/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/JONVITER/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JON
+VITER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/JONVITER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Users/JONVITER/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvb8a.pfb><C:/Users/JONVITER/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/JONVITER/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/JONVITER/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/JONVITER/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/JONVI
+TER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/User
+s/JONVITER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (81 pages, 2389183 bytes).
 PDF statistics:
- 341 PDF objects out of 1000 (max. 8388607)
+ 362 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

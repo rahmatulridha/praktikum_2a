@@ -791,3 +791,47 @@ Pandas dapat mengolah suatu data dan mengolahnya seperti join, distinct, group b
 	\includegraphics[width=10cm]{figures/epi/nih.png}
 	\centering
 \end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Doli Jonviter NT Simbolon / 1154016}
+\begin{enumerate}
+    \item Apa itu fungsi file csv, jelaskan sejarah dan contoh
+   Comma Separated Value atau CSV adalah format data yang memudahkan penggunanya melakukan penginputan data ke database secara sederhana. CSV bisa digunakan dalam standar file ASCII, di mana setiap record dipisahkan dengan tanda koma (,) atau titik koma (;). 
+    Dari rilis pertama, Excel menggunakan format file biner yang disebut Binary Interchange File Format (BIFF) sebagai format file utamanya. Ini berubah ketika Microsoft merilis Office System 2007 yang memperkenalkan Office Open XML sebagai format file utamanya. Office Open XML adalah file kontainer berbasis XML yang mirip dengan XML Spreadsheets (XMLSS), yang diperkenalkan di Excel 2002. File versi XML tidak bisa menyimpan makro VBA.
+   dalam hal ini  Microsoft Excel  mendukung format Comma Separated Values (CSV), DBase File (DBF), SYMbolic LinK (SYLK), Format Interchange Data (DIF) dan banyak format lainnya, termasuk format lembar kerja 1-2 Lotus - 3 (WKS, WK1, WK2, dll.) Dan Quattro Pro. dengan contohnya yaitu pembuatan data mahasiswa, dosen, pegawai dan lain sebagainya.
+    \item Aplikasi-aplikasi apa saja yang bisa menciptakan file csv
+    \begin{itemize}
+       \item Program Spreadsheet
+        Seperti excell,google spreadshare,LibreOfficecalc
+        \item Texteditor
+        Seperti notepad++,visual studio code,atom,sublime dan lain sebagainya
+    \end{itemize}
+    \item Jelaskan bagaimana cara menulis dan membaca file csv di excel atau spreadsheet
+    Untuk menulis file csv dengan menggunakan microsoft excel yaitu:
+	\begin{iitemize}
+	\item Download file template csv terlebih dahulu
+	\item Setelah itu silakan Anda buka browser Anda lalu buka Google Sheet 
+	\item Setelah itu Anda akan diarahkan menuju ke halaman Google Sheet. Pada halaman tersebut silakan Anda klik menu File > Open dan akan muncul pop up Open a File dan pilih tab Upload
+	\item Setelah itu silakan Anda klik tombol Select a file from your computer dan cari file template yang sudah Anda download sebelumnya di langkah. Maka file yang sudah Anda download tadi akan muncul
+	\item Setelah langkah tersebut selesai Anda bisa menambahkan data baik kolom maupun baris sesuai dengan keinginan Anda. Bahkan mengganti nama kolomnya pun juga bisa. 
+	\item Setelah Anda selesai mengedit data tersebut sekarang kita akan melakukan eksport file ke file csv. Caranya klik menu File > Download as > Comma – separated values (.csv, current sheet)
+	\item langkah terakhir Anda tinggal mengganti nama file nya dan klik tombol download. Maka file csv Anda sudah siap untuk digunakan untuk melakukan import data.
+	\end{itemize} 
+    \item Jelaskan sejarah library csv
+      CSV muncul untuk memudahkan data science dan analis karena dinilai terdapat banyak kemudahan yang didapat. CSV dapat dimaksimalkan jika dipaduka dengan python karena python adalah bahasa pemrograman yang support ke banyak library termasuk csv. Maka karena itulah 	perpaduan python dan csv seringkali digunakan oleh perusahaan-perushaan besar dalam mengolah datanya. library csv dibuat untuk permudah mengolah data. Dan mempermudah untuk melakukan export dan import file csv itu sendiri
+    \item Jelaskan sejarah library pandas
+    Pandas merupakan tool yang dapat digunakan sebagai alat analisis data dan struktur untuk bahasa pemrograman Python. Pandas dapat mengolah data dengan mudah, salah satu fitur yang ada dalam pandas adalah Dataframe. Fitur dataframe dapat membaca sebuah file dan menjadikannya tabble, juga dapat mengolah suatu data dengan menggunakan operasi seperti join, group by dan teknik lainnya yang terdapat pada SQL.  library dari pandas dibuat agar bahasa pemograman python bisa bersaing R dan matlab, yang digunakan untuk mengolah banyak data , keperluan big data, data mining data science dan sebagainya.
+    \item Jelaskan fungsi-fungsi yang terdapat di library csv
+    Terdapat 2 fungsi yang bisa digunakan oleh library csv
+    Pertama,fungsi membaca file csv.
+    fungsi ini bisa menggunakan list dan dictionary
+    Dengan list :
+    \lstinputlisting[firstline=11, lastline=21]{src/1154016/1154016_csv.py}
+    Dengan dictionary :
+    \lstinputlisting[firstline=24, lastline=33]{src/1154016/1154016_csv.py}
+    Kedua,fungsi menulis file csv.
+    \lstinputlisting[firstline=36, lastline=40]{src/1154016/1154016_csv.py}
+    \item Jelaskan fungsi-fungsi yang terdapat di library pandas
+    Fungsi pada library pandas  hampir sama dengan library csv. Perbedaanya adalah library pandas dari penulisannya lebih sederhana dan lebih rapih dibandingkan dengan library dari csv.
+    \lstinputlisting[firstline=43, lastline=44]{src/1154016/1154016_csv.py}
+\end{enumerate}
