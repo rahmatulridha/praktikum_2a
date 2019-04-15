@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  26 MAR 2019 04:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.12)  26 MAR 2019 11:52
 entering extended mode
 **./main.tex
 (main.tex
@@ -144,7 +144,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 124.
- (main.aux)
+
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -161,7 +162,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
 
- ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/context/base\supp-pdf.mkii"
@@ -394,4 +395,4 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 /rahma/Chapter4/3.png> <./figures/rahma/Chapter4/4.png>]
 <figures/rahma/Chapter4/5.png, id=132, 442.65375pt x 19.57312pt>
 File: figures/rahma/Chapter4/5.png Graphic file (type png)
-<use figures/r
+<use fig
